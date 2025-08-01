@@ -1,6 +1,6 @@
 # 🤖 AI ChatPod - Your Personalized AI Chatbot Platform
 
-![AI ChatPod Banner](https://via.placeholder.com/1200x400/6366f1/ffffff?text=AI+ChatPod+-+Personalized+AI+Chatbots)
+![AI ChatPod Banner]([[https://via.placeholder.com/1200x400/6366f1/ffffff?text=AI+ChatPod+-+Personalized+AI+Chatbots](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-whCfu198S1T4gvvLUmlhV2_vw5mgi6rWtw&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvR9bGNehnF3YHxuCTS9_o7or-YoShfwrxg&s))
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-ai--chatpod.vercel.app-blue)](https://ai-chatpod.vercel.app/edit-chatpod/25)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
